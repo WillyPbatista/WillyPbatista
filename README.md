@@ -49,8 +49,7 @@ Build less, but better.
 ## Contact
 
 [williamperezdev@gmail.com](mailto:williamperezdev@gmail.com)
-LinkedIn
-https://www.linkedin.com/in/william-javier-perez-batista-7621922b8/
+
 
 ---
 
